@@ -25,6 +25,9 @@ draw = function(){
   //ladybug
   fill(200,0,0);
   ellipse(10, 350, 10, 10);
+
+  x=x+1;
+
 }
 
 
